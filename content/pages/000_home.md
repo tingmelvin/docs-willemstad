@@ -15,16 +15,6 @@ If you would like to contribute to adding/editing Willemstad's documentation, yo
 
 Alternatively, if you need more help or would like to chat, you can find me on Discord as `Melvin#7545`.
 
-Hope you enjoy your stay here!
-
----
-Therein lies the test message:
-
-You have successfully launched your spacebook. If you are new here, you may want to [read the docs](https://spacebook.app/) for tips and tricks on setting up your project.
-
-![Hello, world](/content/images/hello.jpg)
-
-->*Onward...*<-
-
+-> Hope you enjoy your stay here! <-
 
 
