@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 0
   title: 'Home'
 ---
-Hi! 👋
+-> Hi! 👋 <-
 
 Welcome to Willemstad's theme documentation website! I do hope you find the documentation here useful, and it convinces you to start using Willemstad, or helps you with using the theme!
 

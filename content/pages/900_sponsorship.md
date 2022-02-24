@@ -4,7 +4,7 @@ date: 2022-04-24
 permalink: /donate/
 eleventyNavigation:
   key: Changelog
-  order: 920
+  order: 900
   title: 'Sponsorship'
 ---
 
