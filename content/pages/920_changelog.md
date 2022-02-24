@@ -4,7 +4,7 @@ date: 2022-04-24
 permalink: /changelog/
 eleventyNavigation:
   key: Changelog
-  order: 950
+  order: 920
   title: 'Changelog'
 ---
 
