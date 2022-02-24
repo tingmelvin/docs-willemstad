@@ -4,12 +4,10 @@ date: Last Modified
 permalink: /willemstad-sf/
 eleventyNavigation:
   key: Bonjour
-  order: 100
+  order: 1
   parent: Home
   title: 'Willemstad for Shimmering Focus'
 ---
-
-## Willemstad for Shimmering Focus
 
 **Willemstad for Shimmering Focus** is the original predecessor/variant of the current <u>Willemstad X</u> theme. Designed specifically around Chris Grieser (@pseudometa)'s theme <u>Shimmering Focus</u>, it is is a snippet/theme variant that brought Willemstad's colours and additional Style Settings Options on top of <u>Shimmering Focus</u>.
 
