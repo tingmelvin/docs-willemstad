@@ -1,12 +1,12 @@
 ---
-title: 'About the Creator'
+title: 'About the Creator 👦'
 date: 2022-04-24
 permalink: /creator/
 eleventyNavigation:
   key: Creator
   parent: Home
   order: 900
-  title: 'About the Creator 👦'
+  title: 'Creator Info'
 ---
 
 I'm a masters candidate at the [London School of Hygiene and Tropical Medicine](https://www.lshtm.ac.uk/) reading demography and health.
