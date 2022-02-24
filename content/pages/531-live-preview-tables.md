@@ -1,7 +1,7 @@
 ---
 title: 'Using Admonitions Pseudo-Reading-Mode Live Preview Tables for Willemstad X users'
 date: 2022-04-24
-permalink: /ext/adm/tables
+permalink: /ext/adm/tables/
 eleventyNavigation:
   key: AdmLPTables
   parent: Admonition
