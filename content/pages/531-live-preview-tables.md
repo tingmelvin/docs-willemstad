@@ -3,8 +3,8 @@ title: 'Using Admonitions Pseudo-Reading-Mode Live Preview Tables for Willemstad
 date: 2022-04-24
 permalink: /ext/adm/tables
 eleventyNavigation:
-  key: Extensions
-  parent: Home
+  key: AdmLPTables
+  parent: Admonition
   order: 531
   title: 'Live Preview Tables'
 ---
