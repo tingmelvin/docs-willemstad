@@ -204,11 +204,11 @@
 
     /* change single quote codeblocks */
     .sm\:prose code::after, .prose code::after, .sm\:prose code::before, .prose code::before {
-        content: none;
+        content: none !important; /* ugh */
     }
 
     .sm\:prose code {
-       background-color: #e5e7eb;
+       background-color: #f0f0f0;
        color: #800000;
     }
 }
