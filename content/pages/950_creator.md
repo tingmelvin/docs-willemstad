@@ -4,8 +4,7 @@ date: 2022-04-24
 permalink: /creator/
 eleventyNavigation:
   key: Creator
-  parent: Home
-  order: 900
+  order: 950
   title: 'Creator Info'
 ---
 
