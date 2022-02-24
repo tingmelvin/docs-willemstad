@@ -1,0 +1,21 @@
+{
+  "name": "Willemstad",
+  "subtitle": "",
+  "description": "",
+  "footer": "",
+  "url": "https://roentgen-willemstad.netlify.app",
+  "githubUrl": "https://github.com/tingmelvin/willemstad-x",
+  "githubBranch": "main",
+  "navigationStyle": "vertical",
+  "emoji": "🏘️",
+  "enableSearch": true,
+  "enableDarkMode": true,
+  "enableEditButton": false,
+  "enableDatestamp": true,
+  "enableGithubLink": false,
+  "enableContact": false,
+  "enableNetlifyCMS": false,
+  "enableComments": false,
+  "enableEncryption": false,
+  "enablePageNavigation": true
+}
