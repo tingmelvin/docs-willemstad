@@ -1,7 +1,7 @@
 ---
 title: 'About the Creator'
 date: 2022-04-24
-permalink: /creator
+permalink: /creator/
 eleventyNavigation:
   key: Creator
   parent: Home
