@@ -208,8 +208,8 @@
     }
 
     .sm\:prose code {
-       background-color: #f2f2f2 !important;
-       color: #800000 !important;
+       /* background-color: #f2f2f2 !important;
+       color: #800000 !important; */
        font-weight: normal !important;
     }
 }
