@@ -4,7 +4,6 @@ date: 2022-04-24
 permalink: /ext/
 eleventyNavigation:
   key: Extensions
-  parent: Home
   order: 500
   title: 'Theme Extensions'
 ---
