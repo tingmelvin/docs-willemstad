@@ -5,7 +5,7 @@ permalink: /ext/adm/
 eleventyNavigation:
   key: Admonition
   parent: Extensions
-  order: 520
+  order: 530
   title: 'Admonition'
 ---
 

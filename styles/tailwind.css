@@ -201,4 +201,14 @@
     .dark .feather.feather-github {
         color: white;
     }
+
+    /* change single quote codeblocks */
+    .sm\:prose code::after, .prose code::after, .sm\:prose code::before, .prose code::before {
+        content: none;
+    }
+
+    .sm\:prose code {
+       background-color: #e5e7eb;
+       color: #800000;
+    }
 }

@@ -1,11 +1,11 @@
 ---
-title: Home
+title: 'Welcome to Willemstad!'
 date: Last Modified 
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
-  title: 'Welcome to Willemstad!'
+  title: 'Home'
 ---
 Hi! 👋
 
