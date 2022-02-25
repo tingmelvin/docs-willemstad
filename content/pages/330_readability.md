@@ -4,8 +4,8 @@ title: 'Readability'
 date: Last Modified 
 permalink: /typ/read/
 eleventyNavigation:
-  key: Intro
-  order: 310
-  parent: Home
+  key: Readability
+  order: 330
+  parent: Typography
   title: 'Readability'
 ---

@@ -4,7 +4,7 @@ title: 'Typography'
 date: Last Modified 
 permalink: /typ/
 eleventyNavigation:
+  key: Typography
   order: 300
-  parent: Home
   title: 'Typography'
 ---
