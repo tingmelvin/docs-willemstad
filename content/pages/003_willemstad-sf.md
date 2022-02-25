@@ -1,11 +1,11 @@
 ---
 parent:: [[ER2OWS-10-MOC_Willemstad]]
-title: Willemstad for Shimmering Focus
+title: 'Willemstad for Shimmering Focus'
 date: Last Modified 
 permalink: /willemstad-sf/
 eleventyNavigation:
   key: WillemstadSF
-  order: 1
+  order: 3
   parent: Home
   title: 'Willemstad for Shimmering Focus'
 ---
