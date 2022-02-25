@@ -1,5 +1,5 @@
 ---
-title: 'Using Admonitions Pseudo-Reading-Mode Live Preview Tables for Willemstad X users'
+title: 'Using Admonitions Pseudo-Reading-Mode Live Preview Tables'
 date: 2022-04-24
 permalink: /ext/adm/tables/
 eleventyNavigation:
