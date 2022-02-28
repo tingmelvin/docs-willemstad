@@ -44,6 +44,6 @@ cssClass:
 
 | Class   | Description                                               |     |
 | ------- | --------------------------------------------------------- | --- |
-| latex   | Formats your document similar to those processed by LaTeX |     |
-| writing | Applies an alternate note styling for writers             |     |
-|         |                                                           |     |
+| [latex](/ext/css/latex/)   | Formats your document similar to those processed by LaTeX |     |
+| [writing](/ext/css/writing/) | Applies an alternate note styling for writers             |     |
+| [cards](/ext/css/cards)        | Minimal Cards                                                           |     |
