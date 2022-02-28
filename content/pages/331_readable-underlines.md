@@ -10,7 +10,7 @@ eleventyNavigation:
   title: 'Readable Underlines'
 ---
 
-Underlines are known to be [less readable and hurt readabiity](https://www.uxbooth.com/articles/is-the-underlined-link-hurting-readability/), so Willemstad provides you two alternatives to the standard Obsidian variety:
+Underlines are known to [hurt readabiity](https://www.uxbooth.com/articles/is-the-underlined-link-hurting-readability/), so Willemstad provides you two alternatives to the standard Obsidian variety:
 
 > Standard Obsidian ![](/content/images/ru-std.png)
 >
