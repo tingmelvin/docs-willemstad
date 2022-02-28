@@ -9,3 +9,6 @@ eleventyNavigation:
   parent: Typography
   title: 'Typefaces and Font Pairings'
 ---
+
+Typefaces are an important part of user 
+
