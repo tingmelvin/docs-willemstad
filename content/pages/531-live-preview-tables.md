@@ -1,6 +1,6 @@
 ---
 title: 'Using Admonitions Pseudo-Reading-Mode Live Preview Tables'
-date: 2022-04-24
+date: Last Modified 
 permalink: /ext/adm/tables/
 eleventyNavigation:
   key: AdmLPTables

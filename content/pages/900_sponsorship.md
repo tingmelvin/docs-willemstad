@@ -1,6 +1,6 @@
 ---
 title: 'Sponsorship and Donations'
-date: 2022-04-24
+date: Last Modified 
 permalink: /donate/
 eleventyNavigation:
   key: Changelog

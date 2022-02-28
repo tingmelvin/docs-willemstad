@@ -1,6 +1,6 @@
 ---
 title: 'About the Creator 👦'
-date: 2022-04-24
+date: 2022-02-24
 permalink: /creator/
 eleventyNavigation:
   key: Creator

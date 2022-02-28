@@ -1,6 +1,6 @@
 ---
 title: 'Admonition'
-date: 2022-04-24
+date: Last Modified 
 permalink: /ext/adm/
 eleventyNavigation:
   key: Admonition

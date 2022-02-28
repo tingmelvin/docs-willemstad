@@ -1,6 +1,6 @@
 ---
 title: 'Changelog ⚙️'
-date: 2022-04-24
+date: 2022-02-24
 permalink: /changelog/
 eleventyNavigation:
   key: Changelog
