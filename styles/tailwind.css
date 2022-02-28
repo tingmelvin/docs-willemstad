@@ -364,4 +364,8 @@
        color: #800000 !important; */
        font-weight: normal !important;
     }
+
+    .sm\:prose blockquote {
+        quotes: none !important;
+    } /* no quotes! */
 }
