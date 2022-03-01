@@ -23,6 +23,6 @@ At the moment, *Willemstad* offers the following custom Admonition classes out o
 
 | Class      | Description                                         |
 | ---------- | --------------------------------------------------- |
-| ad-tables  | Renders true-to-Reading-mode tables in Live Preview |
-| ad-infobox | Renders wiki-style infoboxes                        |
+| [ad-table](/ext/adm/tables/)  | Renders true-to-Reading-mode tables in Live Preview |
+| [ad-infobox](/ext/adm/infobox/) | Renders wiki-style infoboxes                        |
 |            |                                                     |

@@ -15,8 +15,6 @@ Please follow these instructions:
 3. Create an Admonition with
 ```
 `​`​`ad-table
-title:
-color:
 
 (table code goes here)
 `​`​`
