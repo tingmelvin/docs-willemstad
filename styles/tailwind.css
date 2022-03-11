@@ -369,3 +369,7 @@
         quotes: none !important;
     } /* no quotes! */
 }
+
+.adjust iframe, .adjust img, .adjust p iframe, .adjust p img {
+    box-shadow: none !important;
+}
