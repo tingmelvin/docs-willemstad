@@ -4,7 +4,6 @@ date: Last Modified
 permalink: /startup/
 eleventyNavigation:
   key: Startup
-  parent: Home
   order: 600
   title: 'Startup Screen'
 ---
