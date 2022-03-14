@@ -1,11 +1,11 @@
 ---
-title: 'Startup'
+title: 'Startup Screen'
 date: Last Modified 
 permalink: /startup/
 eleventyNavigation:
   key: Startup
   order: 600
-  title: 'Startup Screen'
+  title: 'Startup'
 ---
 
 Willemstad allows you to customise your Startup Screen in a myriad of ways.
