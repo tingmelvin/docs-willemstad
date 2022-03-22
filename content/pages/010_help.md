@@ -1,7 +1,7 @@
 ---
 title: Help
 date: Last Modified 
-permalink: /help/
+permalink: /010_help.md
 eleventyNavigation:
   key: Help
   order: 10
