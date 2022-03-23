@@ -26,5 +26,3 @@ Alternatively, if you need more help or would like to chat, you can find me on D
 2. Once installed, you are highly recommended to also install the [Style Settings](obsidian://show-plugin?id=obsidian-style-settings) plugin, as it enables customisation options.
 	1. This plugin is also used by most of the major themes, so it is highly recommended to have it *anyway*, even if you do not choose to use Willemstad.
 3. Voilà! You're ready to use <u>Willemstad</u>!
-
-4. [hello](010_help.md)
